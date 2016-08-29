@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 100%;
+}
+
+body {
+    background-color: #F5F5F5;
+    display: table
+}
+
+.container {
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#number {
+    border: 1px solid #E6E6E6;
+    margin: 2px;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+}
+
+.red {
+    color: #F23F3F;
+}
+
+.green {
+    color: #30BF4A;
+}
+
+
